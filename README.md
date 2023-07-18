@@ -16,9 +16,9 @@ Python in Jupyter Notebook
 
 # Library Used
 
-matplotlib.pyplot
-numpy
-pandas
-seaborn
-sklearn
-statsmodels
+matplotlib.pyplot  
+numpy  
+pandas  
+seaborn  
+sklearn  
+statsmodels  
